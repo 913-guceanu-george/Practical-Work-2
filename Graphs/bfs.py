@@ -66,3 +66,4 @@ for triple in g.edgesIterator():
     print(triple[0], triple[1])
 
 print(strongly_connected_components(g))
+print("\n\n")
