@@ -1,0 +1,7 @@
+.vscode
+*.cpp
+*.c
+*.h
+*.exe
+*.cmd
+*.sh
